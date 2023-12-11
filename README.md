@@ -24,12 +24,6 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxew33&show_icons=true&locale=en&layout=compact" alt="maxew33" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxew33&show_icons=true&locale=en" alt="maxew33" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxew33&" alt="maxew33" /></p>
-
-
 <!--
 **maxew33/maxew33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
