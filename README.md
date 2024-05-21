@@ -2,7 +2,7 @@
 
 ### A passionate frontend developer from France
 
-👨‍💻 Some of my projects are available at [maxime-malfilatre.com](https://maxime-malfilatre.com)
+👨‍💻 Some of my projects are available at [maxime-malfilatre.com](https://pf.maxime-malfilatre.com)
 
 ### Watch me:
 [Project Presentation](https://www.youtube.com/watch?v=r8x3x25GahM&ab_channel=MaximeMalfilatre)
